@@ -1,0 +1,7 @@
+*/coup-drive-key.json
+*/service-account.json
+node_modules
+*.DS_Store
+data-model.txt
+rules.bolt
+rules.json
